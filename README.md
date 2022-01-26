@@ -8,5 +8,5 @@ To contrubute, please add your content to the [pending](./pending) directory.  t
 
 There are some amazing project going on with the TEC, I would encourage you to share your work through this Journal.
 
-Published Journals can be found in the _published_ directory.
+Published Journals can be found in the [publications](./publications) directory.
 
